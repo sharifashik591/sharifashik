@@ -12,8 +12,14 @@ Skills: Machine Leaning | Deep Learning | NLP | Data Analysis
 - 📫 How to reach me: knock me on linked in or direct mail me 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sharifashik591)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sharif-ashik//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/sharifashik)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sharifashik591)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sharif-ashik//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/sharifashik)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sharifashik591)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifashik591)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sharifashik591&color=green)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sharifashik591)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sharifashik591)  
+
+![Profile views](https://gpvc.arturio.dev/sharifashik591)  
